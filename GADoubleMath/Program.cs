@@ -40,11 +40,16 @@
             // Console.WriteLine(result14)	
             // double result15 = 5.5 * 3.0;
             // Console.WriteLine(result15)
+            // double number = 5.0;
+            // Example value
+            // double doubleNumber = 2.5;
+            // Example value
+
             // double a = 0.1;
             // double b = 0.2;
             // double sum = a + b;
-            Console.WriteLine($"Equation 1 Result: {equation1}");
-            Console.WriteLine($"Equation 2 Result: {equation2}");
+            Console.WriteLine($"Equation 1 Result: equation1");
+            Console.WriteLine($"Equation 2 Result: equation2");
 
 
 
