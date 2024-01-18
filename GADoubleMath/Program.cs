@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Scholars!");
             // double myDouble = 123.456;
             // double sum = 5.6 + 3.2;
             // double difference = 10.5 - 4.3;
